@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\javascript"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ktra th1"
+	}
+}
